@@ -124,7 +124,7 @@ void benchmark_common(std::size_t max_input_size, int trials) {
         }
     }
 }
- 
+
 }  // namespace
 
 int main(int argc, char** argv) {

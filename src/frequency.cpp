@@ -57,7 +57,6 @@ int mostFrequentEfficient(const std::vector<int>& values) {
             maxCount = pair.second;
         }
     }
-
     return mostFrequent;
 }
 
