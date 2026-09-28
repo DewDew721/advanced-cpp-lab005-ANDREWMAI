@@ -126,7 +126,7 @@ void benchmark_common(std::size_t max_input_size, int trials) {
 }
 
 }  // namespace
-/*
+
 int main(int argc, char** argv) {
     std::size_t max_input_size = 100000UL;
     int trials = 3;
@@ -144,4 +144,3 @@ int main(int argc, char** argv) {
     benchmark_common(max_input_size, trials);
     return 0;
 }
-*/
